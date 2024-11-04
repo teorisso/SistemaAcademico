@@ -1,0 +1,1 @@
+Proyecto en Java que permite administrar alumnos y sus calificaciones mediante operaciones CRUD en una base de datos MySQL. Sin interfaz gráfica, el sistema funciona completamente desde el teclado, facilitando el registro y gestión de información académica de manera sencilla y eficiente
